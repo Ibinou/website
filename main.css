@@ -30,3 +30,22 @@ button {
     height: 43px;
     width: 145px;
 }
+.feature-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.feature-text {
+    margin-left: 10px;
+}
+
+.feature-text h3 {
+    margin: 0;
+    font-size: 20px;
+}
+
+.feature-text p {
+    margin: 0;
+    color: #666;
+}

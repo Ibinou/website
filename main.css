@@ -67,3 +67,42 @@ button {
 .item1, .item2, .item3, .item4, .item5, .item6 {
   background-image: url('https://www.ab-engineering.fr/wp-content/uploads/2016/01/The-Stadthaus-un-immeuble-en-bois-de-9-%C3%A9tages-%C3%A0-Londres.jpg');
 }
+
+.footer {
+    background-color: #1a1a1a;
+    color: white;
+    padding: 20px;
+}
+
+.follow-us, .get-in-touch {
+    margin-bottom: 20px;
+}
+
+.social-icons {
+    display: flex;
+}
+
+.social-icons a {
+    margin-right: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.get-in-touch form {
+    display: flex;
+    flex-direction: column;
+}
+
+.get-in-touch input, .get-in-touch button {
+    margin-bottom: 10px;
+}
+
+.footer-links {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-links a {
+    color: white;
+    text-decoration: none;
+}

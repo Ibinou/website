@@ -1,13 +1,14 @@
 body {
    background-image: linear-gradient(177deg, rgb(34 77 86) 0%, rgb(9 67 136) 46.35%, rgb(0 71 255) 100%);
    background-repeat: no-repeat;
+   margin-right: 17px;
+   margin-left: 17px;
 }
 body, input, select, textarea {
-    color: #585858;
+    color: #fff;
     font-family: "Source Sans Pro", Helvetica, sans-serif;
     font-size: 16pt;
     font-weight: 300;
-    line-height: 1.75;
 }
 button {
    background-color: #2196F3;
